@@ -30,7 +30,7 @@ sh autoexssh root rootpassword
 <h1>Note:</h1>
 
 ```
-# The expect package needs be installed when you execute the autoexssh.sh scripts for every machine
+# The expect package need be installed when you execute the autoexssh.sh scripts for every machine
 # yum install -y expect #for redhat's family os version 7
 # dnf install -y expect #for redhat's family os version 8
 ```
